@@ -1,0 +1,19 @@
+{
+  "name": "find-upper",
+  "version": "1.0.0",
+  "description": "pick two text from user name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aswin-natraj/npmpackages.git"
+  },
+  "author": "Aswin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aswin-natraj/npmpackages/issues"
+  },
+  "homepage": "https://github.com/aswin-natraj/npmpackages#readme"
+}
